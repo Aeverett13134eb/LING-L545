@@ -1,5 +1,5 @@
 # LING-L545
 
-http://cl.indiana.edu/~ftyers/courses/2020/Autumn/L-545/
+https://github.com/Aeverett13134eb/LING-L545
 
-`YOUR NAME HERE`
+`Anna Everett`
